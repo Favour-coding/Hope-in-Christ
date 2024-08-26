@@ -1,0 +1,15 @@
+body{
+    margin:0;
+}
+header{
+    background-color:hsl(0, 0%, 93%);
+    text-align:center;
+    padding:25px;
+}
+.navbar{
+    background-color:pink;
+    height: 50px;
+}
+aside{
+    
+}

@@ -1,0 +1,28 @@
+.pagination a{background-color: aliceblue;
+text-decoration: none;
+}
+image{
+background-image: none;
+
+}
+footer{
+background-color:pink;
+}
+.none{
+text-decoration: none;
+background-color:pink;
+color:hsla(249, 100%, 25%, 0.733);
+}
+.none:hover{
+background-color:rgba(240, 255, 252, 1.000);
+
+color:red;
+}
+.active{
+background-color: pink;
+color:violet;
+}
+.active:visited{
+    background-color: pink;
+    color: grey;
+}
